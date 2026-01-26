@@ -32,8 +32,8 @@ int main()
        {
            printf("\nroots are imaginary/complex");
        }
-       retun 0;
+       
        }
             
-        
+        return 0;
 }
