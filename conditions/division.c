@@ -1,3 +1,4 @@
+//this program takes student name,class and subject marks and calculate percentage out of it and gives performance scored.
 #include <stdio.h>
 
 int main() {
